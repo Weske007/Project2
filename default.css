@@ -1,0 +1,86 @@
+/* ervaringen */
+
+
+.card-img-top {
+    width: 100%;
+    height: 20vh;
+  }
+  
+  .contact-button {
+    background-color: black;
+    color: white;
+  }
+  /* Aangepaste CSS voor de navigatiebalk met een specifieke selector */
+  .navbar  {
+    background-color: #1992cf;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+
+  /* CV */
+  body {
+    background-color: #40a4d6; /* Blue background color */
+  }
+  .container {
+    background-color: #f0f0f0; /* White container background color */
+    border-radius: 10px; /* Rounded container corners */
+    padding: 20px;
+    margin-top: 20px;
+  }
+  .progress {
+    text-align: center; /* Center the text within the progress bar */
+  }
+  .profile-image {
+    max-width: 100%;
+    height: 20rem;
+  }
+  .divider {
+    margin-top: 2px;
+    border-bottom: 2px solid black;
+    margin: 1rem 0;
+  }
+
+  /* interesses */
+  .carousel-inner {
+    text-align: center;
+  }
+
+  .carousel-item img {
+    height: 50rem; 
+    width: 40rem; 
+    object-fit:scale-down;
+    object-position: center;
+  }
+
+  .carousel-caption p {
+    color: white;
+    font-size: 15px;
+  
+  }
+
+
+  
+
+
+
+  
+  .accordion-button {
+    background-color: #1992cf;
+  }
+  .accordion-collapse {
+    background-color: #1992cf; 
+  }
+
+  /* start */
+  .card-img-top {
+    width: 100%;
+    height: 30vh;
+  }
+  .hero {
+    background-color: #0f5a90; 
+    
+  }
+  .contact-button {
+    background-color: black; 
+    color: white; }
